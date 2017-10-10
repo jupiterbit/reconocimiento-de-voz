@@ -1,5 +1,5 @@
 # Reconocimiento de voz con Matlab
-Este es un proyecto básico de Reconocimiento de Voz implementado en Matlab. Se desarrolló en el curso de Métodos Numéricos IV en el año 2014.
+Este es un proyecto básico de Reconocimiento de Voz implementado en Matlab que se desarrolló en el curso de Métodos Numéricos y Programación IV en el año 2014.
 
 Se comparte este proyecto con fines educativos, con el objetivo de ser una ayuda al momento estudiar el reconocimento de voz.
 
